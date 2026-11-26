@@ -1,0 +1,1 @@
+Monitor make.fun for new bounties every 30 minutes and work the eligible ones automatically.
